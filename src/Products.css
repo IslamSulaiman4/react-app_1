@@ -1,0 +1,9 @@
+.products{
+    height: 500px;
+    color: rgb(175, 60, 175) ;
+}
+
+.products div{
+    border: rgb(175, 60, 175) 2px solid ;
+    height: 200px;
+}
